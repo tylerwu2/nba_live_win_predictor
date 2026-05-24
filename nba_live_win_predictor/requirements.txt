@@ -1,0 +1,11 @@
+nba_api
+torch
+websocket-client
+requests
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jsonify
+flask

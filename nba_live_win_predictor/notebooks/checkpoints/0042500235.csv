@@ -1,0 +1,526 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+0042500235,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:14 PM EST),period,start,1,0,1
+0042500235,4,PT12M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Jump Ball Wembanyama vs. Gobert: Tip to Castle,Jump Ball,,1,0,2
+0042500235,7,PT11M43.00S,1,1610612759,SAS,1628368,Fox,D. Fox,66,45,8,Made,1,2,0,2,h,Fox 8' Driving Floating Bank Jump Shot (2 PTS) (Castle 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,3
+0042500235,9,PT11M43.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle S.FOUL (P1.T1) (K.Lane),Foul,Shooting,1,0,4
+0042500235,11,PT11M43.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,3,0,3,h,Fox Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,5
+0042500235,12,PT11M36.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell P.FOUL (P1.T1) (J.Goble),Foul,Personal,1,0,6
+0042500235,14,PT11M18.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,7
+0042500235,16,PT11M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,62,22,7,Missed,1,,,0,h,MISS Wembanyama 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,8
+0042500235,17,PT10M57.00S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+0042500235,18,PT10M51.00S,1,1610612750,MIN,203944,Randle,J. Randle,94,106,14,Made,1,3,2,5,v,Randle 14' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,10
+0042500235,19,PT10M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,142,210,25,Missed,1,,,0,h,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+0042500235,20,PT10M27.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+0042500235,21,PT10M20.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,1,0,13
+0042500235,23,PT10M20.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,3,3,6,v,Edwards Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,14
+0042500235,24,PT10M20.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,3,4,7,v,Edwards Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,15
+0042500235,25,PT10M20.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,3,5,8,v,Edwards Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,16
+0042500235,26,PT10M11.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert FLAGRANT.FOUL.TYPE1 (P1.T2) (K.Lane),Foul,Flagrant Type 1,1,0,17
+0042500235,28,PT10M11.00S,1,0,,26,Longley,L. Longley,0,0,0,,0,3,5,8,,Instant Replay1st Period (8:19 PM EST),Instant Replay,Overturn Ruling,0,0,18
+0042500235,29,PT10M11.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,4,5,9,h,Wembanyama Free Throw Flagrant 1 of 3 (1 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,19
+0042500235,30,PT10M11.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,MISS Wembanyama Free Throw Flagrant 2 of 3,Free Throw,Free Throw Flagrant 2 of 3,1,0,20
+0042500235,31,PT10M11.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,21
+0042500235,32,PT10M11.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,5,5,10,h,Wembanyama Free Throw Flagrant 3 of 3 (2 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,0,22
+0042500235,34,PT10M03.00S,1,1610612759,SAS,1628368,Fox,D. Fox,-42,5,4,Missed,1,,,0,h,MISS Fox 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,23
+0042500235,35,PT10M01.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,24
+0042500235,36,PT10M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,7,5,12,h,Wembanyama Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,25
+0042500235,37,PT09M42.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-54,285,29,Missed,1,,,0,v,MISS Edwards 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,26
+0042500235,38,PT09M39.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+0042500235,39,PT09M31.00S,1,1610612759,SAS,1628368,Fox,D. Fox,-32,19,4,Made,1,9,5,14,h,Fox 4' Turnaround Jump Shot (5 PTS),Made Shot,Turnaround Jump Shot,1,2,28
+0042500235,40,PT09M19.00S,1,1610612750,MIN,203944,Randle,J. Randle,-21,278,28,Missed,1,,,0,v,MISS Randle 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+0042500235,41,PT09M18.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+0042500235,42,PT09M17.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,9,7,16,v,Gobert Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,31
+0042500235,43,PT09M02.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,230,37,0,Made,1,12,7,19,h,Wembanyama 3PT Jump Shot (7 PTS) (Fox 1 AST),Made Shot,Jump Shot,1,3,32
+0042500235,45,PT08M48.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,53,253,26,Missed,1,,,0,v,MISS McDaniels 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,33
+0042500235,46,PT08M43.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,34
+0042500235,47,PT08M40.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-234,-17,0,Made,1,15,7,22,h,Champagnie 3PT Running Jump Shot (3 PTS) (Wembanyama 1 AST),Made Shot,Running Jump Shot,1,3,35
+0042500235,49,PT08M12.00S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,137,-16,14,Made,1,15,9,24,v,Dosunmu 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,36
+0042500235,50,PT08M08.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Violation: Delay of game Violation,Violation,Delay Of Game,0,0,37
+0042500235,51,PT07M48.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-13,10,2,Made,1,17,9,26,h,Wembanyama 2' Driving Dunk (9 PTS) (Castle 2 AST),Made Shot,Driving Dunk Shot,1,2,38
+0042500235,52,PT07M48.00S,1,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,39
+0042500235,54,PT07M37.00S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,9,71,7,Missed,1,,,0,v,MISS Dosunmu 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,40
+0042500235,55,PT07M34.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,41
+0042500235,56,PT07M26.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle L.B.FOUL (P2.T3) (B.Taylor),Foul,Loose Ball,1,0,42
+0042500235,58,PT07M26.00S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Reid FOR Dosunmu,Substitution,,0,0,43
+0042500235,59,PT07M26.00S,1,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Conley FOR Randle,Substitution,,0,0,44
+0042500235,62,PT07M15.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,31,69,8,Made,1,19,9,28,h,Wembanyama 8' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,45
+0042500235,63,PT07M00.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-45,55,7,Missed,1,,,0,v,MISS McDaniels 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,46
+0042500235,64,PT06M59.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,47
+0042500235,65,PT06M51.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,5,3,1,Made,1,21,9,30,h,Wembanyama 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,48
+0042500235,66,PT06M33.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-18,81,8,Missed,1,,,0,v,MISS Edwards 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,49
+0042500235,67,PT06M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,50
+0042500235,68,PT06M17.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,91,240,26,Made,1,24,9,33,h,Wembanyama 26' 3PT Jump Shot (16 PTS) (Castle 3 AST),Made Shot,Jump Shot,1,3,51
+0042500235,70,PT06M01.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,25,29,4,Made,1,24,11,35,v,McDaniels 4' Driving Hook Shot (2 PTS) (Conley 1 AST),Made Shot,Driving Hook Shot,1,2,52
+0042500235,72,PT05M55.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-89,231,25,Missed,1,,,0,h,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+0042500235,73,PT05M51.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,54
+0042500235,74,PT05M44.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox P.FOUL (P1.T3) (B.Taylor),Foul,Personal,1,0,55
+0042500235,76,PT05M44.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Kornet FOR Wembanyama,Substitution,,0,0,56
+0042500235,77,PT05M44.00S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Harper FOR Fox,Substitution,,0,0,57
+0042500235,78,PT05M44.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Johnson FOR Champagnie,Substitution,,0,0,58
+0042500235,79,PT05M44.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Shannon Jr. FOR Gobert,Substitution,,0,0,59
+0042500235,84,PT05M31.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-233,-20,0,Made,1,24,14,38,v,Reid 3PT Pullup Jump Shot (3 PTS) (Shannon Jr. 1 AST),Made Shot,Pullup Jump shot,1,3,60
+0042500235,86,PT05M05.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,6,61,6,Made,1,26,14,40,h,Johnson 6' Pullup Jump Shot (2 PTS) (Vassell 1 AST),Made Shot,Pullup Jump shot,1,2,61
+0042500235,88,PT04M52.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,62
+0042500235,88,PT04M52.00S,1,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper STEAL (1 STL),,,1,0,63
+0042500235,90,PT04M49.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,233,11,0,Missed,1,,,0,h,MISS Vassell 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,64
+0042500235,91,PT04M45.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,65
+0042500235,92,PT04M41.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,66
+0042500235,92,PT04M41.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (1 STL),,,1,0,67
+0042500235,94,PT04M34.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-172,179,25,Missed,1,,,0,h,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+0042500235,95,PT04M31.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+0042500235,96,PT04M19.00S,1,1610612750,MIN,201144,Conley,M. Conley,20,57,6,Made,1,26,16,42,v,Conley 6' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,70
+0042500235,97,PT03M58.00S,1,1610612759,SAS,1642264,Castle,S. Castle,107,98,15,Missed,1,,,0,h,MISS Castle 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,71
+0042500235,98,PT03M56.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,v,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+0042500235,99,PT03M49.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,73
+0042500235,100,PT03M49.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Dosunmu FOR McDaniels,Substitution,,0,0,74
+0042500235,102,PT03M35.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,13,29,3,Made,1,28,16,44,h,Johnson 3' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,2,75
+0042500235,103,PT03M35.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,0,76
+0042500235,105,PT03M35.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,MISS Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,77
+0042500235,106,PT03M32.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,78
+0042500235,107,PT03M21.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,22,280,28,Made,1,28,19,47,v,Edwards 28' 3PT Step Back Jump Shot (6 PTS) (Conley 2 AST),Made Shot,Step Back Jump shot,1,3,79
+0042500235,108,PT03M11.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P1.PN) (B.Taylor),Foul,Personal,1,0,80
+0042500235,111,PT03M11.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,81
+0042500235,112,PT03M11.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,82
+0042500235,113,PT03M11.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Champagnie FOR Vassell,Substitution,,0,0,83
+0042500235,115,PT03M11.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,MISS Castle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,84
+0042500235,116,PT03M08.00S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+0042500235,117,PT02M59.00S,1,1610612750,MIN,201144,Conley,M. Conley,-232,15,0,Made,1,28,22,50,v,Conley 3PT Jump Shot (5 PTS) (Shannon Jr. 2 AST),Made Shot,Jump Shot,1,3,86
+0042500235,119,PT02M51.00S,1,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,87
+0042500235,120,PT02M51.00S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,88
+0042500235,122,PT02M51.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Fox FOR Castle,Substitution,,0,0,89
+0042500235,124,PT02M40.00S,1,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet S.FOUL (P1.T4) (J.Goble),Foul,Shooting,1,0,90
+0042500235,126,PT02M40.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,28,23,51,v,Shannon Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,91
+0042500235,127,PT02M40.00S,1,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,28,24,52,v,Shannon Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+0042500235,128,PT02M24.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,1,0,93
+0042500235,130,PT02M24.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,94
+0042500235,131,PT02M24.00S,1,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Kornet,Substitution,,0,0,95
+0042500235,133,PT02M07.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-132,90,16,Made,1,28,26,54,v,Edwards 16' Pullup Jump Shot (8 PTS) (Dosunmu 1 AST),Made Shot,Pullup Jump shot,1,2,96
+0042500235,135,PT01M59.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,153,211,26,Missed,1,,,0,h,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+0042500235,136,PT01M57.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+0042500235,137,PT01M57.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,Made,1,30,26,56,h,Johnson Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,99
+0042500235,139,PT01M43.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,SUB: McDaniels FOR Edwards,Substitution,,0,0,100
+0042500235,141,PT01M36.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,51,15,5,Missed,1,,,0,v,MISS McDaniels 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,101
+0042500235,142,PT01M35.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,102
+0042500235,143,PT01M20.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels S.FOUL (P1.PN) (J.Goble),Foul,Shooting,1,0,103
+0042500235,145,PT01M20.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,31,26,57,h,Wembanyama Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,104
+0042500235,146,PT01M20.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,32,26,58,h,Wembanyama Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+0042500235,147,PT01M07.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-44,260,26,Missed,1,,,0,v,MISS Reid 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,106
+0042500235,148,PT01M03.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+0042500235,149,PT00M50.70S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,108
+0042500235,149,PT00M50.70S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (1 STL),,,1,0,109
+0042500235,151,PT00M46.10S,1,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,29,10,3,Made,1,32,28,60,v,Dosunmu 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,110
+0042500235,152,PT00M33.90S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,v,Conley S.FOUL (P1.PN) (K.Lane),Foul,Shooting,1,0,111
+0042500235,154,PT00M33.90S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,33,28,61,h,Fox Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,112
+0042500235,155,PT00M33.90S,1,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,34,28,62,h,Fox Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+0042500235,156,PT00M23.30S,1,1610612750,MIN,1629675,Reid,N. Reid,-22,7,2,Made,1,34,30,64,v,Reid 2' Driving Layup (5 PTS) (Shannon Jr. 3 AST),Made Shot,Driving Layup Shot,1,2,114
+0042500235,158,PT00M02.40S,1,1610612759,SAS,1629640,Johnson,K. Johnson,153,220,27,Missed,1,,,0,h,MISS Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+0042500235,159,PT00M00.10S,1,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,116
+0042500235,160,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,30,64,,End of 1st Period (8:46 PM EST),period,end,1,0,117
+0042500235,170,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,30,64,,Start of 2nd Period (8:50 PM EST),period,start,0,0,118
+0042500235,171,PT11M43.00S,2,1610612750,MIN,203944,Randle,J. Randle,61,121,14,Missed,1,,,0,v,MISS Randle 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,119
+0042500235,172,PT11M40.00S,2,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+0042500235,173,PT11M35.00S,2,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,121
+0042500235,173,PT11M35.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (2 STL),,,1,0,122
+0042500235,175,PT11M31.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-230,-10,0,Missed,1,,,0,v,MISS Reid 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,123
+0042500235,176,PT11M28.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,124
+0042500235,179,PT11M06.00S,2,1610612759,SAS,1642868,Bryant,C. Bryant,-125,230,26,Made,1,37,30,67,h,Bryant 26' 3PT Jump Shot (3 PTS) (Wembanyama 2 AST),Made Shot,Jump Shot,1,3,125
+0042500235,181,PT10M38.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,228,-19,0,Missed,1,,,0,v,MISS Shannon Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+0042500235,181,PT10M38.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle BLOCK (1 BLK),,,1,3,127
+0042500235,182,PT10M36.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,128
+0042500235,183,PT10M33.00S,2,1610612759,SAS,1628368,Fox,D. Fox,-237,-20,24,Made,1,40,30,70,h,Fox 24' 3PT Running Jump Shot (10 PTS) (Bryant 1 AST),Made Shot,Running Jump Shot,1,3,129
+0042500235,185,PT10M20.00S,2,1610612750,MIN,203944,Randle,J. Randle,229,-17,0,Missed,1,,,0,v,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+0042500235,186,PT10M17.00S,2,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+0042500235,187,PT10M15.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-20,4,2,Made,1,42,30,72,h,Castle 2' Running Pull-Up Jump Shot (2 PTS) (Fox 2 AST),Made Shot,Running Pull-Up Jump Shot,1,2,132
+0042500235,188,PT10M15.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. S.FOUL (P2.T1) (K.Lane),Foul,Shooting,1,0,133
+0042500235,190,PT10M15.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,SUB: Edwards FOR Shannon Jr.,Substitution,,0,0,134
+0042500235,192,PT10M15.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,43,30,73,h,Castle Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,135
+0042500235,193,PT10M09.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle P.FOUL (P2.T1) (J.Goble),Foul,Personal,1,0,136
+0042500235,195,PT10M02.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-22,0,2,Missed,1,,,0,v,MISS Reid 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,137
+0042500235,195,PT10M02.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (1 BLK),,,1,2,138
+0042500235,196,PT10M00.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,139
+0042500235,197,PT09M53.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,140
+0042500235,198,PT09M46.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-184,165,25,Made,1,43,33,76,v,McDaniels 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,141
+0042500235,199,PT09M37.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels L.B.FOUL (P2.T2) (K.Lane),Foul,Loose Ball,1,0,142
+0042500235,201,PT09M37.00S,2,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Harper FOR Fox,Substitution,,0,0,143
+0042500235,203,PT09M26.00S,2,1610612759,SAS,1642844,Harper,D. Harper,232,26,0,Missed,1,,,0,h,MISS Harper 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+0042500235,204,PT09M22.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,145
+0042500235,205,PT09M15.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,229,28,0,Missed,1,,,0,v,MISS McDaniels 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,146
+0042500235,206,PT09M13.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,147
+0042500235,207,PT09M02.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-12,4,1,Made,1,45,33,78,h,Castle 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,148
+0042500235,208,PT09M02.00S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,149
+0042500235,212,PT09M02.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Kornet FOR Wembanyama,Substitution,,0,0,150
+0042500235,213,PT09M02.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,SUB: Gobert FOR Reid,Substitution,,0,0,151
+0042500235,214,PT09M02.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Shannon Jr. FOR Dosunmu,Substitution,,0,0,152
+0042500235,218,PT08M38.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,153
+0042500235,218,PT08M38.00S,2,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet STEAL (1 STL),,,1,0,154
+0042500235,220,PT08M33.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,150,199,25,Missed,1,,,0,h,MISS Vassell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,155
+0042500235,221,PT08M31.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+0042500235,222,PT08M26.00S,2,1610612750,MIN,203944,Randle,J. Randle,-34,38,5,Made,1,45,35,80,v,Randle 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,157
+0042500235,223,PT08M05.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,109,126,17,Missed,1,,,0,h,MISS Vassell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,158
+0042500235,224,PT08M04.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,159
+0042500235,225,PT07M58.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,-18,5,2,Missed,1,,,0,v,MISS Shannon Jr. 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,160
+0042500235,226,PT07M56.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,161
+0042500235,227,PT07M54.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,21,247,25,Missed,1,,,0,v,MISS McDaniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+0042500235,228,PT07M52.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,163
+0042500235,229,PT07M48.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle OFF.Foul (P3) (J.Goble),Foul,Offensive,1,0,164
+0042500235,231,PT07M48.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,165
+0042500235,232,PT07M48.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Johnson FOR Castle,Substitution,,0,0,166
+0042500235,234,PT07M48.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,167
+0042500235,235,PT07M29.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,99,151,18,Missed,1,,,0,v,MISS Edwards 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,168
+0042500235,236,PT07M27.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,169
+0042500235,237,PT07M20.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-12,53,5,Missed,1,,,0,h,MISS Johnson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,170
+0042500235,238,PT07M18.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,171
+0042500235,239,PT07M11.00S,2,1610612750,MIN,203944,Randle,J. Randle,5,84,8,Missed,1,,,0,v,MISS Randle 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,172
+0042500235,240,PT07M09.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,173
+0042500235,241,PT07M03.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,239,56,25,Missed,1,,,0,h,MISS Vassell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,174
+0042500235,242,PT07M01.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,175
+0042500235,243,PT07M00.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,Made,1,47,35,82,h,Johnson Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,176
+0042500235,244,PT06M43.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,177
+0042500235,245,PT06M32.00S,2,1610612759,SAS,1642844,Harper,D. Harper,-33,0,3,Made,1,49,35,84,h,Harper 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,178
+0042500235,247,PT06M21.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell S.FOUL (P2.T2) (J.Goble),Foul,Shooting,1,0,179
+0042500235,249,PT06M21.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,49,36,85,v,McDaniels Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,180
+0042500235,250,PT06M21.00S,2,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Fox FOR Kornet,Substitution,,0,0,181
+0042500235,251,PT06M21.00S,2,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,SUB: Conley FOR Shannon Jr.,Substitution,,0,0,182
+0042500235,252,PT06M21.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Dosunmu FOR Gobert,Substitution,,0,0,183
+0042500235,256,PT06M21.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,49,37,86,v,McDaniels Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+0042500235,257,PT06M07.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,190,178,26,Made,1,52,37,89,h,Vassell 26' 3PT Jump Shot (3 PTS) (Harper 1 AST),Made Shot,Jump Shot,1,3,185
+0042500235,259,PT05M47.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,11,2,1,Made,1,52,39,91,v,Dosunmu 1' Cutting Finger Roll Layup Shot (6 PTS) (McDaniels 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,186
+0042500235,261,PT05M33.00S,2,1610612759,SAS,1642844,Harper,D. Harper,1,75,8,Missed,1,,,0,h,MISS Harper 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,187
+0042500235,261,PT05M33.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu BLOCK (1 BLK),,,1,2,188
+0042500235,263,PT05M31.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,189
+0042500235,264,PT05M26.00S,2,1610612750,MIN,201144,Conley,M. Conley,-151,195,25,Missed,1,,,0,v,MISS Conley 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,190
+0042500235,265,PT05M21.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+0042500235,266,PT05M10.00S,2,1610612759,SAS,1628368,Fox,D. Fox,-16,3,2,Missed,1,,,0,h,MISS Fox 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,192
+0042500235,267,PT05M08.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,193
+0042500235,268,PT05M06.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,194
+0042500235,270,PT05M06.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,52,40,92,v,Dosunmu Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,195
+0042500235,271,PT05M06.00S,2,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,196
+0042500235,272,PT05M06.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Harper,Substitution,,0,0,197
+0042500235,273,PT05M06.00S,2,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,SUB: Barnes FOR Bryant,Substitution,,0,0,198
+0042500235,274,PT05M06.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Reid FOR McDaniels,Substitution,,0,0,199
+0042500235,278,PT05M06.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,MISS Dosunmu Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,200
+0042500235,279,PT05M01.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,201
+0042500235,280,PT04M48.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,6,6,1,Made,1,54,40,94,h,Vassell 1' Alley Oop Dunk (5 PTS) (Barnes 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,202
+0042500235,282,PT04M21.00S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,203
+0042500235,283,PT04M09.00S,2,1610612759,SAS,1628368,Fox,D. Fox,93,120,15,Made,1,56,40,96,h,Fox 15' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,204
+0042500235,285,PT04M02.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Champagnie FOR Vassell,Substitution,,0,0,205
+0042500235,287,PT03M48.00S,2,1610612750,MIN,1629675,Reid,N. Reid,5,58,6,Missed,1,,,0,v,MISS Reid 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,206
+0042500235,288,PT03M46.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,207
+0042500235,289,PT03M43.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0,208
+0042500235,291,PT03M43.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,209
+0042500235,292,PT03M39.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,-126,228,26,Missed,1,,,0,v,MISS Dosunmu 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,210
+0042500235,293,PT03M35.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,211
+0042500235,294,PT03M24.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-7,8,1,Made,1,58,40,98,h,Wembanyama 1' Alley Oop Dunk (20 PTS) (Fox 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,212
+0042500235,296,PT03M06.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,-1,6,1,Made,1,58,42,100,v,Dosunmu 1' Driving Dunk (9 PTS) (Edwards 1 AST),Made Shot,Driving Dunk Shot,1,2,213
+0042500235,298,PT02M48.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu P.FOUL (P1.T3) (J.Goble),Foul,Personal,1,0,214
+0042500235,300,PT02M48.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Harper FOR Johnson,Substitution,,0,0,215
+0042500235,302,PT02M40.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,7,85,9,Missed,1,,,0,h,MISS Wembanyama 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,216
+0042500235,303,PT02M38.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,217
+0042500235,304,PT02M24.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper S.FOUL (P2.T4) (B.Taylor),Foul,Shooting,1,0,218
+0042500235,306,PT02M24.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,58,43,101,v,Randle Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+0042500235,307,PT02M24.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,,,0,v,SUB: McDaniels FOR Conley,Substitution,,0,0,220
+0042500235,309,PT02M24.00S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,58,44,102,v,Randle Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,221
+0042500235,310,PT02M24.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid T.FOUL (P1.T3) (J.Goble),Foul,Technical,1,0,222
+0042500235,311,PT02M24.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,59,44,103,h,Wembanyama Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,1,0,223
+0042500235,312,PT02M06.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-116,-8,12,Missed,1,,,0,h,MISS Wembanyama 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,224
+0042500235,313,PT02M04.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,225
+0042500235,314,PT02M04.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,Missed,1,,,0,h,MISS Harper Putback Layup,Missed Shot,Putback Layup Shot,1,2,226
+0042500235,315,PT02M03.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,227
+0042500235,316,PT01M59.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-217,131,25,Missed,1,,,0,h,MISS Wembanyama 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,228
+0042500235,317,PT01M57.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,229
+0042500235,318,PT01M52.00S,2,1610612750,MIN,1629675,Reid,N. Reid,233,64,24,Made,1,59,47,106,v,Reid 24' 3PT Running Jump Shot (8 PTS) (Dosunmu 2 AST),Made Shot,Running Jump Shot,1,3,230
+0042500235,320,PT01M31.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels P.FOUL (P3.T4) (B.Taylor),Foul,Personal,1,0,231
+0042500235,322,PT01M31.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,,,0,h,SUB: Vassell FOR Barnes,Substitution,,0,0,232
+0042500235,323,PT01M31.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Gobert FOR McDaniels,Substitution,,0,0,233
+0042500235,326,PT01M21.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-53,243,25,Missed,1,,,0,h,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+0042500235,327,PT01M18.00S,2,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,235
+0042500235,328,PT01M03.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,15,10,2,Missed,1,,,0,v,MISS Gobert 2' Dunk,Missed Shot,Dunk Shot,1,2,236
+0042500235,328,PT01M03.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (2 BLK),,,1,2,237
+0042500235,330,PT01M00.00S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,238
+0042500235,331,PT00M55.60S,2,1610612759,SAS,1628368,Fox,D. Fox,-136,208,25,Missed,1,,,0,h,MISS Fox 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,239
+0042500235,332,PT00M54.30S,2,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,240
+0042500235,333,PT00M45.80S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert OFF.Foul (P2) (J.Goble),Foul,Offensive,1,0,241
+0042500235,335,PT00M45.80S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,242
+0042500235,336,PT00M33.20S,2,1610612759,SAS,1630170,Vassell,D. Vassell,40,261,26,Missed,1,,,0,h,MISS Vassell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,243
+0042500235,337,PT00M28.70S,2,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,244
+0042500235,338,PT00M16.90S,2,1610612759,SAS,1628368,Fox,D. Fox,-15,9,2,Missed,1,,,0,h,MISS Fox 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,245
+0042500235,339,PT00M15.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,246
+0042500235,340,PT00M01.00S,2,1610612750,MIN,203944,Randle,J. Randle,7,167,17,Missed,1,,,0,v,MISS Randle 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,247
+0042500235,341,PT00M00.10S,2,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,248
+0042500235,342,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,47,106,,End of 2nd Period (9:18 PM EST),period,end,1,0,249
+0042500235,347,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,47,106,,Start of 3rd Period (9:34 PM EST),period,start,0,0,250
+0042500235,348,PT11M46.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,-234,-17,0,Made,1,59,50,109,v,Dosunmu 3PT Jump Shot (12 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,251
+0042500235,350,PT11M25.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-206,148,25,Missed,1,,,0,h,MISS Vassell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+0042500235,351,PT11M23.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,253
+0042500235,352,PT11M14.00S,3,1610612750,MIN,203944,Randle,J. Randle,81,243,26,Missed,1,,,0,v,MISS Randle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+0042500235,353,PT11M11.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,255
+0042500235,355,PT11M06.00S,3,1610612759,SAS,1628368,Fox,D. Fox,-59,22,6,Missed,1,,,0,h,MISS Fox 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,256
+0042500235,355,PT11M06.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu BLOCK (2 BLK),,,1,2,257
+0042500235,357,PT11M05.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,258
+0042500235,358,PT10M52.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,1,0,259
+0042500235,360,PT10M52.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,59,51,110,v,Edwards Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+0042500235,361,PT10M52.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,59,52,111,v,Edwards Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+0042500235,362,PT10M37.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,262
+0042500235,362,PT10M37.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels STEAL (1 STL),,,1,0,263
+0042500235,364,PT10M22.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,154,-10,15,Made,1,59,54,113,v,Edwards 15' Jump Shot (12 PTS),Made Shot,Jump Shot,1,2,264
+0042500235,365,PT10M14.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu P.FOUL (P2.T1) (B.Taylor),Foul,Personal,1,0,265
+0042500235,367,PT10M05.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-10,50,5,Made,1,61,54,115,h,Castle 5' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,266
+0042500235,368,PT09M54.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie P.FOUL (P1.T2) (J.Goble),Foul,Personal,1,0,267
+0042500235,370,PT09M38.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,-105,3,11,Missed,1,,,0,v,MISS Dosunmu 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,268
+0042500235,371,PT09M36.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,269
+0042500235,372,PT09M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert P.FOUL (P3.T2) (K.Lane),Foul,Personal,1,0,270
+0042500235,374,PT09M21.00S,3,1610612759,SAS,1628368,Fox,D. Fox,10,4,1,Missed,1,,,0,h,MISS Fox 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,271
+0042500235,375,PT09M20.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,272
+0042500235,376,PT09M16.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie P.FOUL (P2.T3) (K.Lane),Foul,Personal,1,0,273
+0042500235,378,PT09M02.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-230,-21,0,Made,1,61,57,118,v,McDaniels 3PT Jump Shot (10 PTS) (Randle 1 AST),Made Shot,Jump Shot,1,3,274
+0042500235,380,PT08M48.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,275
+0042500235,381,PT08M29.00S,3,1610612750,MIN,203944,Randle,J. Randle,77,145,16,Missed,1,,,0,v,MISS Randle 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,276
+0042500235,382,PT08M27.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,277
+0042500235,383,PT08M19.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-159,196,25,Missed,1,,,0,h,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+0042500235,384,PT08M18.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,279
+0042500235,385,PT08M11.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-83,82,12,Made,1,61,59,120,v,McDaniels 12' Pullup Jump Shot (12 PTS) (Dosunmu 3 AST),Made Shot,Pullup Jump shot,1,2,280
+0042500235,387,PT08M08.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,281
+0042500235,388,PT07M56.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,282
+0042500235,388,PT07M56.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert STEAL (1 STL),,,1,0,283
+0042500235,390,PT07M51.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,5,-6,1,Made,1,61,61,122,v,Dosunmu 1' Running Finger Roll Layup (14 PTS) (McDaniels 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,284
+0042500235,391,PT07M35.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,285
+0042500235,391,PT07M35.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert STEAL (2 STL),,,1,0,286
+0042500235,393,PT07M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,140,100,17,Missed,1,,,0,v,MISS Edwards 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,287
+0042500235,394,PT07M19.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,288
+0042500235,395,PT07M10.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-230,22,0,Made,1,64,61,125,h,Champagnie 3PT Jump Shot (6 PTS) (Wembanyama 3 AST),Made Shot,Jump Shot,1,3,289
+0042500235,397,PT06M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-98,5,10,Missed,1,,,0,v,MISS McDaniels 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,290
+0042500235,398,PT06M47.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,291
+0042500235,399,PT06M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels L.B.FOUL (P4.T3) (B.Taylor),Foul,Loose Ball,1,0,292
+0042500235,401,PT06M47.00S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Harper FOR Fox,Substitution,,0,0,293
+0042500235,402,PT06M47.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Johnson FOR Vassell,Substitution,,0,0,294
+0042500235,403,PT06M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Shannon Jr. FOR McDaniels,Substitution,,0,0,295
+0042500235,407,PT06M31.00S,3,1610612759,SAS,1642264,Castle,S. Castle,27,2,3,Made,1,66,61,127,h,Castle 3' Turnaround Fadeaway Bank Jump Shot (9 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,296
+0042500235,408,PT06M15.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,232,11,0,Missed,1,,,0,v,MISS Shannon Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,297
+0042500235,409,PT06M12.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,298
+0042500235,410,PT06M12.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,,,0,v,MISS Gobert Putback Layup,Missed Shot,Putback Layup Shot,1,2,299
+0042500235,410,PT06M12.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson BLOCK (1 BLK),,,1,2,300
+0042500235,412,PT06M12.00S,3,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,1,0,301
+0042500235,414,PT06M12.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Reid FOR Randle,Substitution,,0,0,302
+0042500235,416,PT06M03.00S,3,1610612759,SAS,1642264,Castle,S. Castle,7,2,1,Made,1,68,61,129,h,Castle 1' Driving Dunk (11 PTS) (Wembanyama 4 AST),Made Shot,Driving Dunk Shot,1,2,303
+0042500235,418,PT05M46.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,67,69,10,Made,1,68,63,131,v,Dosunmu 10' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,304
+0042500235,419,PT05M37.00S,3,1610612759,SAS,1642264,Castle,S. Castle,25,76,8,Made,1,70,63,133,h,Castle 8' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,305
+0042500235,420,PT05M22.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,306
+0042500235,420,PT05M22.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie STEAL (1 STL),,,1,0,307
+0042500235,422,PT05M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,5,8,1,Made,1,72,63,135,h,Johnson 1' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,1,2,308
+0042500235,423,PT05M09.00S,3,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,309
+0042500235,426,PT05M09.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Randle FOR Gobert,Substitution,,0,0,310
+0042500235,428,PT04M53.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-72,37,8,Made,1,72,65,137,v,Edwards 8' Driving Floating Bank Jump Shot (14 PTS) (Dosunmu 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,311
+0042500235,430,PT04M31.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,21,6,2,Missed,1,,,0,h,MISS Wembanyama 2' Layup,Missed Shot,Layup Shot,1,2,312
+0042500235,431,PT04M30.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,313
+0042500235,432,PT04M30.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,Missed,1,,,0,h,MISS Harper Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,314
+0042500235,433,PT04M28.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,315
+0042500235,434,PT04M21.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P3.T4) (B.Taylor),Foul,Shooting,1,0,316
+0042500235,436,PT04M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,72,66,138,v,Edwards Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,317
+0042500235,463,PT04M21.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Fox FOR Castle,Substitution,,0,0,318
+0042500235,439,PT04M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,72,67,139,v,Edwards Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,319
+0042500235,440,PT04M08.00S,3,1610612759,SAS,1642844,Harper,D. Harper,80,65,10,Missed,1,,,0,h,MISS Harper 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,320
+0042500235,441,PT04M08.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,321
+0042500235,442,PT04M07.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,74,67,141,h,Wembanyama Tip Layup Shot (23 PTS),Made Shot,Tip Layup Shot,1,2,322
+0042500235,443,PT04M07.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. S.FOUL (P3.T4) (J.Goble),Foul,Shooting,1,0,323
+0042500235,445,PT04M07.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,75,67,142,h,Wembanyama Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0,324
+0042500235,446,PT03M56.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-70,25,7,Missed,1,,,0,v,MISS Edwards 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+0042500235,446,PT03M56.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper BLOCK (1 BLK),,,1,2,326
+0042500235,448,PT03M54.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,327
+0042500235,449,PT03M48.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,Shannon Jr. S.FOUL (P4.PN) (K.Lane),Foul,Shooting,1,0,328
+0042500235,451,PT03M48.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,76,67,143,h,Johnson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,329
+0042500235,488,PT03M48.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Vassell FOR Champagnie,Substitution,,0,0,330
+0042500235,489,PT03M48.00S,3,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,SUB: Conley FOR Shannon Jr.,Substitution,,0,0,331
+0042500235,456,PT03M48.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,77,67,144,h,Johnson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+0042500235,457,PT03M31.00S,3,1610612750,MIN,203944,Randle,J. Randle,17,19,3,Missed,1,,,0,v,MISS Randle 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,333
+0042500235,458,PT03M29.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,334
+0042500235,459,PT03M28.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,Missed,1,,,0,v,MISS Randle Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,335
+0042500235,460,PT03M27.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,336
+0042500235,461,PT03M18.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P2.PN) (J.Goble),Foul,Personal,1,0,337
+0042500235,465,PT03M18.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,78,67,145,h,Johnson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,338
+0042500235,466,PT03M18.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Kornet FOR Wembanyama,Substitution,,0,0,339
+0042500235,467,PT03M18.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Gobert FOR Dosunmu,Substitution,,0,0,340
+0042500235,470,PT03M18.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,79,67,146,h,Johnson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+0042500235,471,PT02M59.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,16,9,2,Made,1,79,69,148,v,Edwards 2' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,342
+0042500235,473,PT02M50.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,113,-15,11,Made,1,81,69,150,h,Vassell 11' Fadeaway Jumper (7 PTS) (Fox 4 AST),Made Shot,Fadeaway Jump Shot,1,2,343
+0042500235,476,PT02M31.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,344
+0042500235,476,PT02M31.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson STEAL (2 STL),,,1,0,345
+0042500235,478,PT02M28.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,4,-4,1,Made,1,83,69,152,h,Johnson 1' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,346
+0042500235,480,PT02M18.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,SUB: Dosunmu FOR Edwards,Substitution,,0,0,347
+0042500235,482,PT02M10.00S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,22,3,2,Missed,1,,,0,v,MISS Dosunmu 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,348
+0042500235,482,PT02M10.00S,3,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet BLOCK (1 BLK),,,1,2,349
+0042500235,484,PT02M10.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,350
+0042500235,485,PT02M10.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper S.FOUL (P3.PN) (J.Goble),Foul,Shooting,1,0,351
+0042500235,487,PT02M10.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,83,70,153,v,Gobert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,352
+0042500235,492,PT02M10.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,83,71,154,v,Gobert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+0042500235,493,PT01M52.00S,3,1610612759,SAS,1628436,Kornet,L. Kornet,13,12,2,Missed,1,,,0,h,MISS Kornet 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,354
+0042500235,493,PT01M52.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,Gobert BLOCK (1 BLK),,,1,2,355
+0042500235,494,PT01M51.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,356
+0042500235,495,PT01M51.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,Made,1,85,71,156,h,Harper Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,357
+0042500235,496,PT01M27.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,Johnson S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,1,0,358
+0042500235,498,PT01M27.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,85,72,157,v,Randle Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+0042500235,500,PT01M27.00S,3,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,85,73,158,v,Randle Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+0042500235,501,PT01M05.00S,3,1610612759,SAS,1628368,Fox,D. Fox,-201,169,26,Missed,1,,,0,h,MISS Fox 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+0042500235,502,PT01M01.00S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,362
+0042500235,503,PT01M00.00S,3,1610612759,SAS,1642844,Harper,D. Harper,-1,16,2,Made,1,87,73,160,h,Harper 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,363
+0042500235,504,PT00M47.40S,3,1610612750,MIN,203497,Gobert,R. Gobert,-11,3,1,Missed,1,,,0,v,MISS Gobert 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,364
+0042500235,505,PT00M45.80S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+0042500235,506,PT00M43.90S,3,1610612759,SAS,1642844,Harper,D. Harper,-13,5,1,Made,1,89,73,162,h,Harper 1' Running Finger Roll Layup (8 PTS) (Vassell 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,366
+0042500235,508,PT00M26.10S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,367
+0042500235,508,PT00M26.10S,3,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,Kornet STEAL (2 STL),,,1,0,368
+0042500235,510,PT00M08.30S,3,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu S.FOUL (P3.PN) (B.Taylor),Foul,Shooting,1,0,369
+0042500235,512,PT00M08.30S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,90,73,163,h,Fox Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,370
+0042500235,513,PT00M08.30S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: Edwards FOR Gobert,Substitution,,0,0,371
+0042500235,516,PT00M08.30S,3,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Harper,Substitution,,0,0,372
+0042500235,517,PT00M08.30S,3,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Champagnie FOR Kornet,Substitution,,0,0,373
+0042500235,520,PT00M08.30S,3,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,91,73,164,h,Fox Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+0042500235,521,PT00M00.00S,3,1610612750,MIN,203944,Randle,J. Randle,-223,0,0,Missed,1,,,0,v,MISS Randle 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+0042500235,522,PT00M00.00S,3,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Unknown,0,0,376
+0042500235,523,PT00M00.00S,3,0,,0,,,0,0,0,,0,91,73,164,,End of 3rd Period (10:05 PM EST),period,end,1,0,377
+0042500235,532,PT12M00.00S,4,0,,0,,,0,0,0,,0,91,73,164,,Start of 4th Period (10:08 PM EST),period,start,0,0,378
+0042500235,533,PT11M49.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,12,0,1,Made,1,93,73,166,h,Wembanyama 1' Driving Floating Bank Jump Shot (26 PTS) (Castle 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,379
+0042500235,535,PT11M32.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-94,245,26,Missed,1,,,0,v,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+0042500235,536,PT11M29.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,381
+0042500235,537,PT11M25.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama OFF.Foul (P1) (J.Goble),Foul,Offensive,1,0,382
+0042500235,539,PT11M25.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,1,0,383
+0042500235,540,PT11M17.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Turnover: 8 Second Violation (T#12),Turnover,8 Second Violation,1,0,384
+0042500235,542,PT11M08.00S,4,1610612759,SAS,1642264,Castle,S. Castle,154,216,27,Missed,1,,,0,h,MISS Castle 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+0042500235,543,PT11M06.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,386
+0042500235,545,PT10M58.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama Kicked Ball Violation Turnover (P4.T13),Turnover,Kicked Ball Violation,1,0,387
+0042500235,546,PT10M46.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,20,4,2,Made,1,93,75,168,v,McDaniels 2' Driving Reverse Layup (14 PTS) (Shannon Jr. 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,388
+0042500235,548,PT10M39.00S,4,1610612759,SAS,1628368,Fox,D. Fox,-16,-3,2,Missed,1,,,0,h,MISS Fox 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,389
+0042500235,549,PT10M37.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+0042500235,550,PT10M32.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-20,3,2,Made,1,93,77,170,v,Edwards 2' Driving Floating Bank Jump Shot (20 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,391
+0042500235,551,PT10M20.00S,4,1610612759,SAS,1628368,Fox,D. Fox,-232,-11,0,Missed,1,,,0,h,MISS Fox 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+0042500235,552,PT10M16.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,393
+0042500235,553,PT10M14.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,213,135,25,Missed,1,,,0,v,MISS McDaniels 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,394
+0042500235,554,PT10M10.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,395
+0042500235,555,PT10M09.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,396
+0042500235,557,PT10M09.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,93,78,171,v,Randle Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+0042500235,558,PT10M09.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,MISS Randle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,398
+0042500235,559,PT10M09.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Unknown,0,0,399
+0042500235,561,PT09M56.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,400
+0042500235,561,PT09M56.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid STEAL (1 STL),,,1,0,401
+0042500235,563,PT09M52.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,229,22,0,Missed,1,,,0,v,MISS Shannon Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,402
+0042500235,564,PT09M48.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,403
+0042500235,565,PT09M34.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-227,-4,0,Made,1,93,81,174,v,Reid 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,404
+0042500235,566,PT09M34.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,405
+0042500235,567,PT09M34.00S,4,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,SUB: Champagnie FOR Bryant,Substitution,,0,0,406
+0042500235,569,PT09M25.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P3.T1) (B.Taylor),Foul,Personal,1,0,407
+0042500235,571,PT09M17.00S,4,1610612759,SAS,1642264,Castle,S. Castle,-2,10,1,Made,1,95,81,176,h,Castle 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,1,2,408
+0042500235,572,PT09M03.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-16,260,26,Made,1,95,84,179,v,McDaniels 26' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,3,409
+0042500235,573,PT08M52.00S,4,1610612759,SAS,1628368,Fox,D. Fox,-7,1,1,Made,1,97,84,181,h,Fox 1' Driving Finger Roll Layup (16 PTS) (Castle 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,410
+0042500235,574,PT08M33.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,-238,53,24,Missed,1,,,0,v,MISS Shannon Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,411
+0042500235,574,PT08M33.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama BLOCK (3 BLK),,,1,3,412
+0042500235,576,PT08M31.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,413
+0042500235,577,PT08M28.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-158,210,26,Missed,1,,,0,h,MISS Champagnie 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,414
+0042500235,578,PT08M26.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,415
+0042500235,579,PT08M19.00S,4,1610612750,MIN,203944,Randle,J. Randle,-9,15,2,Made,1,97,86,183,v,Randle 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,416
+0042500235,580,PT07M59.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-184,179,26,Made,1,100,86,186,h,Vassell 26' 3PT Jump Shot (10 PTS) (Castle 6 AST),Made Shot,Jump Shot,1,3,417
+0042500235,582,PT07M44.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,418
+0042500235,582,PT07M44.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle STEAL (1 STL),,,1,0,419
+0042500235,584,PT07M42.00S,4,1610612759,SAS,1642264,Castle,S. Castle,10,6,1,Made,1,102,86,188,h,Castle 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,1,2,420
+0042500235,585,PT07M42.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,421
+0042500235,587,PT07M42.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: Kornet FOR Wembanyama,Substitution,,0,0,422
+0042500235,588,PT07M42.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Harper FOR Fox,Substitution,,0,0,423
+0042500235,589,PT07M42.00S,4,1610612750,MIN,1630545,Shannon Jr.,T. Shannon Jr.,0,0,0,,0,,,0,v,SUB: Dosunmu FOR Shannon Jr.,Substitution,,0,0,424
+0042500235,593,PT07M27.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,425
+0042500235,593,PT07M27.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,Castle STEAL (2 STL),,,1,0,426
+0042500235,595,PT07M22.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,McDaniels S.FOUL (P5.T2) (K.Lane),Foul,Shooting,1,0,427
+0042500235,597,PT07M22.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,MISS Vassell Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,428
+0042500235,598,PT07M22.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,429
+0042500235,599,PT07M22.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,103,86,189,h,Vassell Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,430
+0042500235,600,PT07M22.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,104,86,190,h,Vassell Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,431
+0042500235,601,PT07M09.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-25,4,3,Missed,1,,,0,v,MISS Edwards 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,432
+0042500235,602,PT07M09.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,433
+0042500235,645,PT07M09.00S,4,1610612750,MIN,203944,Randle,J. Randle,4,11,1,Missed,1,,,0,v,MISS Randle 1' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,434
+0042500235,645,PT07M09.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,Vassell BLOCK (1 BLK),,,1,2,435
+0042500235,647,PT07M09.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,436
+0042500235,604,PT07M07.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper Bad Pass Turnover (P2.T15),Turnover,Bad Pass,1,0,437
+0042500235,604,PT07M07.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu STEAL (3 STL),,,1,0,438
+0042500235,606,PT07M04.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,189,197,27,Missed,1,,,0,v,MISS Dosunmu 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+0042500235,607,PT07M03.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,440
+0042500235,608,PT06M55.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,Dosunmu S.FOUL (P4.T3) (J.Goble),Foul,Shooting,1,0,441
+0042500235,610,PT06M55.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,105,86,191,h,Harper Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+0042500235,617,PT06M55.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,106,86,192,h,Harper Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,443
+0042500235,611,PT06M55.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,,,0,h,SUB: Johnson FOR Vassell,Substitution,,0,0,444
+0042500235,612,PT06M55.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Gobert FOR McDaniels,Substitution,,0,0,445
+0042500235,615,PT06M33.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P4.T2) (J.Goble),Foul,Shooting,1,0,446
+0042500235,618,PT06M33.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,MISS Reid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,447
+0042500235,619,PT06M33.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Rebound,Rebound,Normal Rebound,1,0,448
+0042500235,620,PT06M33.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,106,87,193,v,Reid Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+0042500235,621,PT06M21.00S,4,1610612759,SAS,1642264,Castle,S. Castle,17,-4,2,Missed,1,,,0,h,MISS Castle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,450
+0042500235,622,PT06M20.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,451
+0042500235,623,PT06M05.00S,4,1610612750,MIN,203944,Randle,J. Randle,-12,4,1,Made,1,106,89,195,v,Randle 1' Driving Reverse Layup (13 PTS) (Reid 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,452
+0042500235,625,PT05M54.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,,,0,h,SUB: Wembanyama FOR Castle,Substitution,,0,0,453
+0042500235,626,PT05M54.00S,4,1610612759,SAS,1628436,Kornet,L. Kornet,0,0,0,,0,,,0,h,SUB: Fox FOR Kornet,Substitution,,0,0,454
+0042500235,629,PT05M49.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,232,5,0,Missed,1,,,0,h,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+0042500235,630,PT05M47.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,456
+0042500235,631,PT05M37.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,69,7,Made,1,106,91,197,v,Randle 7' Driving Floating Jump Shot (15 PTS) (Reid 2 AST),Made Shot,Driving Floating Jump Shot,1,2,457
+0042500235,633,PT05M37.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie S.FOUL (P5.T3) (K.Lane),Foul,Shooting,1,0,458
+0042500235,635,PT05M37.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,MISS Randle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,459
+0042500235,636,PT05M35.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:14),Rebound,Unknown,1,0,460
+0042500235,637,PT05M27.00S,4,1610612759,SAS,1642844,Harper,D. Harper,-11,8,1,Made,1,108,91,199,h,Harper 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,1,2,461
+0042500235,638,PT05M12.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-234,50,24,Missed,1,,,0,v,MISS Edwards 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+0042500235,639,PT05M08.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,463
+0042500235,640,PT04M56.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,Reid P.FOUL (P4.T4) (J.Goble),Foul,Personal,1,0,464
+0042500235,642,PT04M46.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-5,1,1,Made,1,110,91,201,h,Champagnie 1' Cutting Layup Shot (8 PTS) (Wembanyama 5 AST),Made Shot,Cutting Layup Shot,1,2,465
+0042500235,644,PT04M46.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,466
+0042500235,648,PT04M46.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,,,0,v,SUB: McDaniels FOR Gobert,Substitution,,0,0,467
+0042500235,650,PT04M26.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-238,-8,24,Missed,1,,,0,v,MISS Reid 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+0042500235,651,PT04M23.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,Fox REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,469
+0042500235,652,PT04M13.00S,4,1610612759,SAS,1628368,Fox,D. Fox,-11,0,1,Made,1,112,91,203,h,Fox 1' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,470
+0042500235,653,PT03M59.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,-1,0,Missed,1,,,0,v,MISS Dosunmu Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,471
+0042500235,654,PT03M57.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,472
+0042500235,655,PT03M57.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,Made,1,112,93,205,v,Randle Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,1,2,473
+0042500235,656,PT03M39.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,Randle P.FOUL (P3.PN) (K.Lane),Foul,Personal,1,0,474
+0042500235,659,PT03M39.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,MISS Wembanyama Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,475
+0042500235,660,PT03M39.00S,4,0,,1610612759,,,0,0,0,,0,,,0,h,SPURS Rebound,Rebound,Normal Rebound,0,0,476
+0042500235,661,PT03M39.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,113,93,206,h,Wembanyama Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+0042500235,662,PT03M25.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,-230,-12,0,Missed,1,,,0,v,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+0042500235,663,PT03M23.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,Wembanyama REBOUND (Off:2 Def:15),Rebound,Unknown,1,0,479
+0042500235,664,PT03M09.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-32,11,3,Made,1,115,93,208,h,Johnson 3' Turnaround Jump Shot (18 PTS) (Fox 5 AST),Made Shot,Turnaround Jump Shot,1,2,480
+0042500235,666,PT03M08.00S,4,0,,1610612750,,,0,0,0,,0,,,0,v,Timberwolves Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,481
+0042500235,668,PT03M08.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,,,0,h,SUB: McLaughlin FOR Wembanyama,Substitution,,0,0,482
+0042500235,669,PT03M08.00S,4,1610612759,SAS,1628368,Fox,D. Fox,0,0,0,,0,,,0,h,SUB: Bryant FOR Fox,Substitution,,0,0,483
+0042500235,670,PT03M08.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,,,0,v,SUB: Beringer FOR Edwards,Substitution,,0,0,484
+0042500235,671,PT03M08.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,,,0,v,SUB: Anderson FOR Reid,Substitution,,0,0,485
+0042500235,672,PT03M08.00S,4,1610612750,MIN,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,,,0,v,SUB: Hyland FOR Dosunmu,Substitution,,0,0,486
+0042500235,673,PT03M08.00S,4,1610612750,MIN,203944,Randle,J. Randle,0,0,0,,0,,,0,v,SUB: Phillips FOR Randle,Substitution,,0,0,487
+0042500235,674,PT03M08.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,,,0,v,SUB: Clark FOR McDaniels,Substitution,,0,0,488
+0042500235,682,PT02M52.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,-219,122,25,Missed,1,,,0,v,MISS Hyland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+0042500235,683,PT02M50.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,Harper REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,490
+0042500235,684,PT02M38.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-13,259,26,Made,1,118,93,211,h,Johnson 26' 3PT Jump Shot (21 PTS) (Harper 2 AST),Made Shot,Jump Shot,1,3,491
+0042500235,686,PT02M21.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,Beringer Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,492
+0042500235,686,PT02M21.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,Champagnie STEAL (2 STL),,,1,0,493
+0042500235,688,PT02M16.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-195,170,26,Missed,1,,,0,h,MISS Champagnie 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,494
+0042500235,689,PT02M14.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,Beringer REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,495
+0042500235,690,PT02M08.00S,4,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,v,Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,496
+0042500235,691,PT02M08.00S,4,1610612759,SAS,1642844,Harper,D. Harper,0,0,0,,0,,,0,h,SUB: Waters III FOR Harper,Substitution,,0,0,497
+0042500235,692,PT02M08.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,,,0,h,SUB: Olynyk FOR Johnson,Substitution,,0,0,498
+0042500235,693,PT02M08.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,,,0,h,SUB: Biyombo FOR Champagnie,Substitution,,0,0,499
+0042500235,697,PT01M50.00S,4,1610612759,SAS,1630322,Waters III,L. Waters III,225,97,25,Made,1,121,93,214,h,Waters III 25' 3PT Jump Shot (3 PTS) (McLaughlin 1 AST),Made Shot,Jump Shot,1,3,500
+0042500235,699,PT01M40.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,-99,132,17,Missed,1,,,0,v,MISS Anderson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,501
+0042500235,700,PT01M36.00S,4,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,502
+0042500235,701,PT01M19.00S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,-16,2,2,Made,1,123,93,216,h,Biyombo 2' Cutting Finger Roll Layup Shot (2 PTS) (McLaughlin 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,503
+0042500235,703,PT01M08.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,31,3,3,Missed,1,,,0,v,MISS Beringer 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,504
+0042500235,704,PT01M08.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,Beringer REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,505
+0042500235,705,PT01M08.00S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo S.FOUL (P1.T4) (K.Lane),Foul,Shooting,1,0,506
+0042500235,707,PT01M08.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,123,94,217,v,Beringer Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+0042500235,708,PT01M08.00S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,123,95,218,v,Beringer Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,508
+0042500235,709,PT00M56.50S,4,1610612759,SAS,1630322,Waters III,L. Waters III,-69,165,18,Missed,1,,,0,h,MISS Waters III 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,509
+0042500235,710,PT00M54.30S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,Beringer REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,510
+0042500235,711,PT00M50.10S,4,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,1,0,511
+0042500235,713,PT00M50.10S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,123,96,219,v,Anderson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,512
+0042500235,714,PT00M50.10S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,,,0,v,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,513
+0042500235,715,PT00M47.90S,4,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,514
+0042500235,716,PT00M38.80S,4,1610612759,SAS,203482,Olynyk,K. Olynyk,238,-5,24,Made,1,126,96,222,h,Olynyk 24' 3PT Jump Shot (3 PTS) (Bryant 2 AST),Made Shot,Jump Shot,1,3,515
+0042500235,718,PT00M31.10S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo P.FOUL (P2.PN) (K.Lane),Foul,Personal,1,0,516
+0042500235,720,PT00M31.10S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,126,97,223,v,Beringer Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,517
+0042500235,721,PT00M31.10S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,MISS Beringer Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,518
+0042500235,722,PT00M29.20S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,0,0,0,,0,,,0,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,519
+0042500235,723,PT00M21.70S,4,1610612759,SAS,202687,Biyombo,B. Biyombo,12,10,2,Missed,1,,,0,h,MISS Biyombo 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,520
+0042500235,723,PT00M21.70S,4,1610612750,MIN,1642866,Beringer,J. Beringer,0,0,0,,0,,,0,v,Beringer BLOCK (1 BLK),,,1,2,521
+0042500235,725,PT00M20.10S,4,1610612750,MIN,1630538,Hyland,B. Hyland,0,0,0,,0,,,0,v,Hyland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,522
+0042500235,726,PT00M15.10S,4,1610612750,MIN,1641763,Phillips,J. Phillips,-224,-8,0,Missed,1,,,0,v,MISS Phillips 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,523
+0042500235,727,PT00M13.10S,4,1610612759,SAS,1642868,Bryant,C. Bryant,0,0,0,,0,,,0,h,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,524
+0042500235,728,PT00M00.00S,4,0,,0,,,0,0,0,,0,126,97,223,,End of 4th Period (10:42 PM EST),period,end,1,0,525
