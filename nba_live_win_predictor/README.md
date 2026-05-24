@@ -1,13 +1,13 @@
-## NBA Live Win Predictor
+# NBA Live Win Predictor
 
-# Real-Time Updates
+## Real-Time Updates
 
-# Frontend: React, Tailwind, Recharts
+## Frontend: React, Tailwind, Recharts
 
-# Backend: Flask/FastAPI, PyTorch, Pandas, Websockets
+## Backend: Flask/FastAPI, PyTorch, Pandas, Websockets
 
-# Fronend Structure: 
+## Frontend Structure: 
 
-# Backend Structure:
+## Backend Structure:
 
-# Hosted on GitHub Pages
+## Hosted on GitHub Pages
