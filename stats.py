@@ -18,6 +18,3 @@ def pull_play_by_play_data(game_id):
     return play_by_play_v3
 
 # export data to csv for training
-
-def export_data_to_csv(data, filename):
-    data.to_csv(filename, index=False)
