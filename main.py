@@ -1,7 +1,5 @@
 # NBA Live Win Predictor, app startup, and routing
 
-import websocket_client
-
 import jsonify
 
 from flask import Flask, render_template, request
@@ -37,8 +35,7 @@ def live_data_and_predict():
     
     with torch.no_grad():
         prob = model(data)
-
-    return jsonify{{'win_pct': prob.item(), 'clock':data[]}}
+    return jsonify({'win_pct': prob.item(), 'clock':data})
 
 if __name__ == '__main__':
     app.run(debug=True)
